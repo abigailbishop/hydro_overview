@@ -10,7 +10,8 @@ We'll follow my notes from my [Introduction Computational Astrophysical Hydrodyn
 
 ## Advection:
 
-  * Slides: [advection.pdf](https://github.com/sbu-nuclear-astro/hydro_overview/blob/master/advection.pdf) : slides shown during discussion
+  * Slides: 
+    * [advection.pdf](https://github.com/sbu-nuclear-astro/hydro_overview/blob/master/advection.pdf) : slides shown during discussion
 
   * Sample codes:
 
